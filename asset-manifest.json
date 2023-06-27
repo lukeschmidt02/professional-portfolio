@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/professional-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/professional-portfolio/static/js/main.94033ccb.js",
+    "main.css": "/professional-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/professional-portfolio/static/js/main.9a95c3c5.js",
     "static/js/787.10c1ab8b.chunk.js": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js",
-    "static/media/logo.svg": "/professional-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tree.PNG": "/professional-portfolio/static/media/tree.07708ee875b45bba1d09.PNG",
+    "static/media/Family.png": "/professional-portfolio/static/media/Family.73c61bc250346d91a544.png",
+    "static/media/durham-bull.jpg": "/professional-portfolio/static/media/durham-bull.10efc9c5595fefca8bbf.jpg",
+    "static/media/Lake.png": "/professional-portfolio/static/media/Lake.f1dab9eb639ddbc37689.png",
+    "static/media/friends.jpg": "/professional-portfolio/static/media/friends.b03c7f341eb1208ae57e.jpg",
+    "static/media/vista.JPG": "/professional-portfolio/static/media/vista.d73ef23d423b6d2939e9.JPG",
+    "static/media/Luke Schmidt.jpg": "/professional-portfolio/static/media/Luke Schmidt.52dcfa95037d1982157f.jpg",
     "index.html": "/professional-portfolio/index.html",
-    "main.073c9b0a.css.map": "/professional-portfolio/static/css/main.073c9b0a.css.map",
-    "main.94033ccb.js.map": "/professional-portfolio/static/js/main.94033ccb.js.map",
+    "main.e6c13ad2.css.map": "/professional-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.9a95c3c5.js.map": "/professional-portfolio/static/js/main.9a95c3c5.js.map",
     "787.10c1ab8b.chunk.js.map": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.94033ccb.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a95c3c5.js"
   ]
 }
