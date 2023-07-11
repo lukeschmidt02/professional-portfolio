@@ -1,19 +1,31 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/professional-portfolio/static/js/main.ec69ee5c.js",
+    "main.js": "/professional-portfolio/static/js/main.ac74e2ba.js",
+    "static/js/214.efb7c807.chunk.js": "/professional-portfolio/static/js/214.efb7c807.chunk.js",
+    "static/js/978.08ad3ba1.chunk.js": "/professional-portfolio/static/js/978.08ad3ba1.chunk.js",
+    "static/js/18.72f6a889.chunk.js": "/professional-portfolio/static/js/18.72f6a889.chunk.js",
+    "static/js/185.fcff0538.chunk.js": "/professional-portfolio/static/js/185.fcff0538.chunk.js",
+    "static/js/789.9b214f8c.chunk.js": "/professional-portfolio/static/js/789.9b214f8c.chunk.js",
     "static/js/787.10c1ab8b.chunk.js": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js",
+    "static/js/386.1b150842.chunk.js": "/professional-portfolio/static/js/386.1b150842.chunk.js",
     "static/media/Backdrop.png": "/professional-portfolio/static/media/Backdrop.3ea5cfd967ae2d704df4.png",
     "static/media/App_Icon-transformed.png": "/professional-portfolio/static/media/App_Icon-transformed.83809d0980d30d55c8bc.png",
     "static/media/Firuco Splash.png": "/professional-portfolio/static/media/Firuco Splash.cada63445accce6f3c7b.png",
     "static/media/unc.png": "/professional-portfolio/static/media/unc.ba8350944541a3f0725d.png",
     "index.html": "/professional-portfolio/index.html",
     "main.e6c13ad2.css.map": "/professional-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.ec69ee5c.js.map": "/professional-portfolio/static/js/main.ec69ee5c.js.map",
-    "787.10c1ab8b.chunk.js.map": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js.map"
+    "main.ac74e2ba.js.map": "/professional-portfolio/static/js/main.ac74e2ba.js.map",
+    "214.efb7c807.chunk.js.map": "/professional-portfolio/static/js/214.efb7c807.chunk.js.map",
+    "978.08ad3ba1.chunk.js.map": "/professional-portfolio/static/js/978.08ad3ba1.chunk.js.map",
+    "18.72f6a889.chunk.js.map": "/professional-portfolio/static/js/18.72f6a889.chunk.js.map",
+    "185.fcff0538.chunk.js.map": "/professional-portfolio/static/js/185.fcff0538.chunk.js.map",
+    "789.9b214f8c.chunk.js.map": "/professional-portfolio/static/js/789.9b214f8c.chunk.js.map",
+    "787.10c1ab8b.chunk.js.map": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js.map",
+    "386.1b150842.chunk.js.map": "/professional-portfolio/static/js/386.1b150842.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ec69ee5c.js"
+    "static/js/main.ac74e2ba.js"
   ]
 }
